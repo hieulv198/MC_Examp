@@ -1,0 +1,9 @@
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\obj\Debug\CertificateExamCode.csprojAssemblyReference.cache
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\bin\Debug\CertificateExamCode.exe.config
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\bin\Debug\CertificateExamCode.exe
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\bin\Debug\CertificateExamCode.pdb
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\bin\Debug\ExplicitImplementInterface.dll
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\bin\Debug\ExplicitImplementInterface.pdb
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\obj\Debug\CertificateExamCode.csproj.CopyComplete
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\obj\Debug\CertificateExamCode.exe
+C:\Users\NTQ\source\repos\CertificateExamCode\CertificateExamCode\obj\Debug\CertificateExamCode.pdb

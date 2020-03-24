@@ -1,0 +1,8 @@
+C:\Users\NTQ\source\repos\CertificateExamCode\ExplicitImplementInterface\bin\Debug\netstandard2.0\ExplicitImplementInterface.deps.json
+C:\Users\NTQ\source\repos\CertificateExamCode\ExplicitImplementInterface\bin\Debug\netstandard2.0\ExplicitImplementInterface.dll
+C:\Users\NTQ\source\repos\CertificateExamCode\ExplicitImplementInterface\bin\Debug\netstandard2.0\ExplicitImplementInterface.pdb
+C:\Users\NTQ\source\repos\CertificateExamCode\ExplicitImplementInterface\obj\Debug\netstandard2.0\ExplicitImplementInterface.csprojAssemblyReference.cache
+C:\Users\NTQ\source\repos\CertificateExamCode\ExplicitImplementInterface\obj\Debug\netstandard2.0\ExplicitImplementInterface.AssemblyInfoInputs.cache
+C:\Users\NTQ\source\repos\CertificateExamCode\ExplicitImplementInterface\obj\Debug\netstandard2.0\ExplicitImplementInterface.AssemblyInfo.cs
+C:\Users\NTQ\source\repos\CertificateExamCode\ExplicitImplementInterface\obj\Debug\netstandard2.0\ExplicitImplementInterface.dll
+C:\Users\NTQ\source\repos\CertificateExamCode\ExplicitImplementInterface\obj\Debug\netstandard2.0\ExplicitImplementInterface.pdb
